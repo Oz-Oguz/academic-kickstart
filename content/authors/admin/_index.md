@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Oz S. Oguz
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Uni Stuttgart & Max Planck Institute for Intelligent Systems
+  url: "https://www.user.tu-berlin.de//mtoussai//"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include task and motion planning in robotics, learning and reasoning for intelligent systems.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+interests: []
+# - Artificial intelligence 
+# - Task and motion planning
+# - Learning and reasoning
+# - Human-robot interaction 
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+education: []
+  # courses:
+  # - course: PhD in Robotics
+  #   institution: TU Munich
+  #   year: 2018
+  # - course: BSc, MSc in Computer Science
+  #   institution: Koc University
+  #   year: 2007, 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +45,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/soguz
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=0tWX-EMAAAAJ&hl
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/oz-oguz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,11 +63,11 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a postdoc at the Learning and Intelligence Systems Lab working with [Marc Toussaint](https://www.user.tu-berlin.de//mtoussai//). My research interests include task and motion planning in robotics, and learning and reasoning for intelligent systems. I received my PhD degree from [TU Munich](https://www.ei.tum.de/en/lsr/home/)], where I focused on HRI in close-proximity scenarios. I studied computer science at [UBC](https://www.cs.ubc.ca/) and [Koç Uni](https://rml.ku.edu.tr/), and started my research journey working on haptic interfaces.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
