@@ -48,7 +48,7 @@ social:
   link: https://scholar.google.com/citations?user=0tWX-EMAAAAJ&hl
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/soguz
+  link: https://twitter.com/ozSoguz
 - icon: github
   icon_pack: fab
   link: https://github.com/oz-oguz
