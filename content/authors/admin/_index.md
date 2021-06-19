@@ -3,8 +3,7 @@
 title: #Oz S. Oguz
 
 # Username (this should match the folder name)
-authors:
-- admin
+authors: admin
 
 # Is this the primary user of the site?
 superuser: true
@@ -69,6 +68,7 @@ email: ""
 user_groups: []
 # - Researchers
 # - Visitors
+
 ---
 
 I'm a postdoc at the Learning and Intelligence Systems Lab working with [Marc Toussaint](https://www.user.tu-berlin.de//mtoussai//). I'm affiliated with Uni Stuttgart & Max Planck Institute for Intelligent Systems, and working within the [Cluster of Excellence: IntCDC](https://www.intcdc.uni-stuttgart.de/). 
